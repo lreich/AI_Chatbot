@@ -10,4 +10,5 @@ class Test:
 
     print(addieren(a,b))
     print (multi(a,b))
+    print("test")
 
