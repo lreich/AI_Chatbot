@@ -18,3 +18,6 @@ class Test:
     print (multi(a,b))
     print("test")
     print("ol")
+    print("ol")
+    print("ol")
+    print("io")
