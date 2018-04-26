@@ -5,4 +5,8 @@ class Test:
     def addieren(x,y):
         return x + y
 
+    def subtrahieren(x,y):
+        return x - y
+
     print(addieren(a,b))
+    print(subtrahieren(a,b))
