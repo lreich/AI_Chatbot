@@ -16,13 +16,3 @@ class Test:
 
     print(addieren(a,b))
     print (multi(a,b))
-    print("test")
-    print("ol")
-    print("ol")
-    print("ol")
-    print("io")
-    print("sdsd")
-    print("ignorepls")
-    print("dffd")
-    print("lololol")
-    sdffd
