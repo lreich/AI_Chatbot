@@ -21,3 +21,5 @@ class Test:
     print("ol")
     print("ol")
     print("io")
+    print("sdsd")
+    print("ignorepls")
