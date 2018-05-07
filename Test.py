@@ -23,3 +23,4 @@ class Test:
     print("io")
     print("sdsd")
     print("ignorepls")
+    print("dffd")
